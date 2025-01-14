@@ -56,6 +56,8 @@ Refactor and update repository structure
 
 # Data Preparation
 
+ * Compiled while following Krish Naik's [udemy course](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/).
+
 ### Imports
 
 ```python
